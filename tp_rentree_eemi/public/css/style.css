@@ -1,0 +1,56 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#menu
+{
+	float:right;
+}
+
+#content2
+{
+width:100px;
+height:100px;
+float:right;
+
+}
+
+#sidebar2
+{
+ float:left;
+}
+
+#formulaire_contact {
+	width: 750px;
+	height: 500px;
+	background-color: red;
+	margin: auto;
+}
+
+#commentaires2 {
+	width: 400px;
+	height: 500px;
+	background-color: blue;
+	overflow: auto;
+}
+
+#commenter2 {
+	width: 340px;
+	height: 500px;
+	background-color: green;
+}
+
+#footer_site {
+	width: 100%;
+	height: 100px;
+	top: 40px;
+	text-align: center;
+	position: relative;
+	bottom: 0px;
+}
+
+#page-404 {
+	text-align: center;
+	font-size: 540%;
+	height: 430px;
+	width: 100%;
+}
